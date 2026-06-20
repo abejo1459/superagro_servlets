@@ -1,5 +1,5 @@
 # superagro_servlets
-This is a project to create inventary of any product related to agro-industry.
+This is a project to create inventary of all products related to agro-industry.
 
 **NOTE:** To execute this project locally, you must download Docker Desktop and WSL if you're using Windows OS.
 
